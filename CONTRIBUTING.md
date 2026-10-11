@@ -1,6 +1,8 @@
-# Contributing
+# Maintenance and Feedback Policy
 
-Thank you for helping improve the Minecraft 1.20.1 port. Please direct port-related issues and pull requests to this repository.
+This Minecraft 1.20.1 port is maintained exclusively by the repository owner, `veyndor1`. External code contributions are not accepted, and pull requests are disabled.
+
+Only the repository owner may create, update, or delete branches and tags in this repository. Bug reports remain welcome through the issue tracker.
 
 ## Report a bug
 
@@ -10,16 +12,6 @@ Remove account tokens, usernames, personal file paths, IP addresses, and other p
 
 For a security vulnerability, follow [SECURITY.md](SECURITY.md) rather than publishing exploit details in an ordinary issue.
 
-## Submit a change
-
-1. Open an issue for substantial behavior changes.
-2. Create a focused branch and describe the problem and resulting behavior.
-3. Build with Java 17 and run the checks relevant to the change.
-4. Preserve upstream credits, existing registry identifiers, and applicable notices.
-5. Explain validation and known compatibility limits in the pull request.
-
-Changes should retain established gameplay behavior unless the change is intentional and documented. Keep unrelated formatting, generated outputs, logs, screenshots from private sessions, and local settings out of the patch.
-
 ## Development references
 
 - [Build and test commands](docs/DEVELOPMENT.md)
@@ -27,4 +19,4 @@ Changes should retain established gameplay behavior unless the change is intenti
 - [Compatibility](docs/COMPATIBILITY.md)
 - [Upstream attribution](CREDITS.md)
 
-Submitting a contribution does not transfer ownership of upstream material or introduce a new license for it. Discuss licensing questions before contributing material with incompatible terms.
+This maintenance policy does not change ownership of upstream material or grant additional rights to it. See [LICENSE.md](LICENSE.md) and [CREDITS.md](CREDITS.md) for the applicable notices and original project attribution.

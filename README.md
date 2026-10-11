@@ -77,7 +77,7 @@ cd Tiny-Progressions-1.20.1
 
 On Windows, use `.\build.ps1 build` or `.\gradlew.bat build`.
 
-The player jar is produced at `build/libs/tp-4.0.0-alpha.2.jar`. The original 1.12.2 source tree and Python conversion tools are **not required** for a normal build. See [development](docs/DEVELOPMENT.md) and [contributing](CONTRIBUTING.md).
+The player jar is produced at `build/libs/tp-4.0.0-alpha.2.jar`. The original 1.12.2 source tree and Python conversion tools are **not required** for a normal build. See [development](docs/DEVELOPMENT.md) and the [maintenance and feedback policy](CONTRIBUTING.md).
 
 ## Project information
 
