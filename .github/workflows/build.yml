@@ -33,6 +33,6 @@ jobs:
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: tiny-progressions-player-jar
-          path: build/libs/tp-4.0.0-alpha.1.jar
+          path: build/libs/tp-4.0.0-alpha.2.jar
           if-no-files-found: error
           retention-days: 14

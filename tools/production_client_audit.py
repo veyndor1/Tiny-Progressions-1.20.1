@@ -125,8 +125,8 @@ def main():
     print(f'Validated {len(selected)} libraries and {len(objects)} assets.', flush=True)
     mods = GAME / 'mods'
     mods.mkdir(exist_ok=True)
-    player = ROOT / 'build/libs/tp-4.0.0-alpha.1.jar'
-    driver = ROOT / 'build/libs/tp-4.0.0-alpha.1-audit.jar'
+    player = ROOT / 'build/libs/tp-4.0.0-alpha.2.jar'
+    driver = ROOT / 'build/libs/tp-4.0.0-alpha.2-audit.jar'
     for source in (player, driver):
         shutil.copyfile(source, mods / source.name)
     values = {

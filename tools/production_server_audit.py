@@ -20,7 +20,7 @@ SERVER = ROOT / 'migration/production-server'
 JAVA = (Path(os.environ['JAVA_HOME']) / 'bin' / ('java.exe' if os.name == 'nt' else 'java')
         if os.environ.get('JAVA_HOME') else Path(shutil.which('java') or 'java'))
 ARGUMENTS = 'libraries/net/minecraftforge/forge/1.20.1-47.4.10/win_args.txt'
-PLAYER = ROOT / 'build/libs/tp-4.0.0-alpha.1.jar'
+PLAYER = ROOT / 'build/libs/tp-4.0.0-alpha.2.jar'
 
 
 def accepted_eula():

@@ -73,10 +73,18 @@ public final class SpecialBlockTests {
         helper.assertTrue(drops.size()==1 && drops.get(0).is(Content.item("dead_reed")) && drops.get(0).getCount()==2,"Old reed must drop two dead reeds");
         helper.setBlock(pos.below(),Blocks.DIRT);
         helper.assertTrue(!reed.canSurvive(helper.getLevel(),helper.absolutePos(pos)),"Old reed must reject dirt");
-        var bush=Content.block("blueberry_bush").defaultBlockState();
-        helper.assertTrue(bush.canSurvive(helper.getLevel(),helper.absolutePos(pos)),"Berry bush must grow on dirt");
-        var berries=Block.getDrops(bush,helper.getLevel(),helper.absolutePos(pos),null);
-        helper.assertTrue(berries.size()==1 && berries.get(0).is(Content.item("blueberry_berry")) && berries.get(0).getCount()<=5,"Bush must drop berries, with the original count range");
+        var player=helper.makeMockPlayer();
+        player.setItemInHand(net.minecraft.world.InteractionHand.MAIN_HAND,ItemStack.EMPTY);
+        for(String name:new String[]{"blueberry","blackberry","maloberry","raspberry"}) {
+            var bush=Content.block(name+"_bush").defaultBlockState();
+            helper.setBlock(pos,bush);
+            helper.assertTrue(bush.canSurvive(helper.getLevel(),helper.absolutePos(pos)),"Berry bush must grow on dirt: "+name);
+            helper.assertTrue(bush.getDestroyProgress(player,helper.getLevel(),helper.absolutePos(pos))>=1.0F,"Berry bush must break in one hit with an empty hand: "+name);
+            var sound=bush.getSoundType(helper.getLevel(),helper.absolutePos(pos),player);
+            helper.assertTrue(sound.getBreakSound()==SoundType.GRASS.getBreakSound(),"Berry bush must use the grass breaking sound: "+name);
+            var berries=Block.getDrops(bush,helper.getLevel(),helper.absolutePos(pos),null);
+            helper.assertTrue(berries.size()==1 && berries.get(0).is(Content.item(name+"_berry")) && berries.get(0).getCount()>=1 && berries.get(0).getCount()<=5,"Bush must drop berries, with the original count range: "+name);
+        }
         helper.succeed();
     }
 }

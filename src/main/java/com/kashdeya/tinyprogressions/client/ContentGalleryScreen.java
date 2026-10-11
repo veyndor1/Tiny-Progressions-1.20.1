@@ -29,7 +29,7 @@ public final class ContentGalleryScreen extends Screen {
             String name=font.plainSubstrByWidth(entry.getId().getPath(),cell-8);
             graphics.drawString(font,name,x+3,y+25,0xffd8e4f3,false);
         }
-        graphics.drawString(font,"Original content · Development build 4.0.0-alpha.1",12,height-14,0xff94adc9,false);
+        graphics.drawString(font,"Original content · Development build 4.0.0-alpha.2",12,height-14,0xff94adc9,false);
         if(++frames==15) {
             graphics.flush();
             try(var screenshot=Screenshot.takeScreenshot(minecraft.getMainRenderTarget())) {

@@ -7,9 +7,9 @@
 | Minecraft | 1.20.1 |
 | Forge | 47.4.10 or later within 47.x |
 | Java | 17 |
-| Player mod file | `tp-4.0.0-alpha.1.jar` |
+| Player mod file | `tp-4.0.0-alpha.2.jar` |
 
-Download the player jar and its SHA-256 checksum from [GitHub Releases](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.1). GitHub's automatically generated source archives contain source code; they are not installable mod jars.
+Download the player jar and its SHA-256 checksum from [GitHub Releases](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.2). GitHub's automatically generated source archives contain source code; they are not installable mod jars.
 
 ## Single-player and client
 
@@ -36,19 +36,19 @@ Compare the output with the checksum included in the same release.
 Windows PowerShell:
 
 ```powershell
-Get-FileHash .\tp-4.0.0-alpha.1.jar -Algorithm SHA256
+Get-FileHash .\tp-4.0.0-alpha.2.jar -Algorithm SHA256
 ```
 
 Linux:
 
 ```shell
-sha256sum tp-4.0.0-alpha.1.jar
+sha256sum tp-4.0.0-alpha.2.jar
 ```
 
 macOS:
 
 ```shell
-shasum -a 256 tp-4.0.0-alpha.1.jar
+shasum -a 256 tp-4.0.0-alpha.2.jar
 ```
 
 ## Updating and troubleshooting

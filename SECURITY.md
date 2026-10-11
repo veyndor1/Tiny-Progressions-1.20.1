@@ -14,7 +14,7 @@ Include affected versions, reproduction steps, the observed impact, and a minima
 
 ## Supported release
 
-The current `4.0.0-alpha.1` prerelease is the available maintenance target. No response-time or universal compatibility guarantee is made.
+The current `4.0.0-alpha.2` prerelease is the available maintenance target. No response-time or universal compatibility guarantee is made.
 
 ## Downloads
 

@@ -9,7 +9,7 @@ description="Developer-only audit companion for the packaged player mod."
 [[dependencies.tp_audit]]
 modId="tp"
 mandatory=true
-versionRange="[4.0.0-alpha.1]"
+versionRange="[4.0.0-alpha.2]"
 ordering="AFTER"
 side="CLIENT"
 [[dependencies.tp_audit]]

@@ -12,7 +12,7 @@
 
 ## Alpha release
 
-Version `4.0.0-alpha.1` is a prerelease. Keep world backups and evaluate the mod in a separate instance before adding it to an established server or modpack.
+Version `4.0.0-alpha.2` is a prerelease. Keep world backups and evaluate the mod in a separate instance before adding it to an established server or modpack.
 
 ## Modpacks
 

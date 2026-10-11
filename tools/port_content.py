@@ -63,7 +63,10 @@ entries, metadata_map = expand_metadata()
 
 
 def block_properties(entry):
-    expression = entry['assignments'][0]['expression'] + '\n' + legacy_class(entry)
+    source = legacy_class(entry)
+    if re.search(r'extends\s+BlockBerryBush\b', source):
+        source += '\n' + strip_comments((JAVA / 'blocks/bushes/BlockBerryBush.java').read_text(encoding='utf-8-sig'))
+    expression = entry['assignments'][0]['expression'] + '\n' + source
     hardness = re.findall(r'setHardness\(([-\d.]+)[Ff]?\)', expression)
     resistance = re.findall(r'setResistance\(([-\d.]+)[Ff]?\)', expression)
     light = re.findall(r'setLightLevel\(([\d.]+)[Ff]?\)', expression)

@@ -18,7 +18,7 @@ Windows:
 .\build.ps1 build
 ```
 
-The player artifact is `build/libs/tp-4.0.0-alpha.1.jar`. A separately named audit companion may also be built; the player artifact excludes developer gallery drivers and GameTest fixtures.
+The player artifact is `build/libs/tp-4.0.0-alpha.2.jar`. A separately named audit companion may also be built; the player artifact excludes developer gallery drivers and GameTest fixtures.
 
 ## Run the mod
 

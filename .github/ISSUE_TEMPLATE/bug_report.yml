@@ -10,7 +10,7 @@ body:
     attributes:
       label: Versions
       description: Include Tiny Progressions, Minecraft, Forge, and Java versions.
-      placeholder: "4.0.0-alpha.1 / 1.20.1 / Forge 47.4.10 / Java 17"
+      placeholder: "4.0.0-alpha.2 / 1.20.1 / Forge 47.4.10 / Java 17"
     validations:
       required: true
   - type: dropdown

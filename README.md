@@ -8,14 +8,14 @@
 
 Classic progression utilities, original textures, and familiar equipment for Minecraft 1.20.1. The original project was created by **Kashdeya, Darkosto, GenDeathrow, and ArclightTW**. This repository maintains the 1.20.1 port; it does not claim authorship of the original mod or endorsement by its authors.
 
-[Download the mod](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.1) · [Installation](docs/INSTALLATION.md) · [Configuration](docs/CONFIGURATION.md) · [Report an issue](https://github.com/veyndor1/Tiny-Progressions-1.20.1/issues/new/choose)
+[Download the mod](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.2) · [Installation](docs/INSTALLATION.md) · [Configuration](docs/CONFIGURATION.md) · [Report an issue](https://github.com/veyndor1/Tiny-Progressions-1.20.1/issues/new/choose)
 
 | Component | Requirement |
 | --- | --- |
 | Minecraft | **1.20.1** |
 | Mod loader | **Forge 47.4.10 or later in the 47 series** |
 | Java | **17** |
-| Mod version | **4.0.0-alpha.1** — prerelease |
+| Mod version | **4.0.0-alpha.2** — prerelease |
 | Mod ID | `tp` |
 | Installation | Client and server |
 
@@ -37,7 +37,7 @@ Classic progression utilities, original textures, and familiar equipment for Min
 ## Quick installation
 
 1. Install Minecraft **1.20.1** with a compatible **Forge 47.x** installation.
-2. Download `tp-4.0.0-alpha.1.jar` from the [release page](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.1).
+2. Download `tp-4.0.0-alpha.2.jar` from the [release page](https://github.com/veyndor1/Tiny-Progressions-1.20.1/releases/tag/v4.0.0-alpha.2).
 3. Place the file in the instance's `mods` directory. For multiplayer, install the same version on the server and every client.
 4. Launch the instance with **Java 17**.
 
@@ -77,7 +77,7 @@ cd Tiny-Progressions-1.20.1
 
 On Windows, use `.\build.ps1 build` or `.\gradlew.bat build`.
 
-The player jar is produced at `build/libs/tp-4.0.0-alpha.1.jar`. The original 1.12.2 source tree and Python conversion tools are **not required** for a normal build. See [development](docs/DEVELOPMENT.md) and [contributing](CONTRIBUTING.md).
+The player jar is produced at `build/libs/tp-4.0.0-alpha.2.jar`. The original 1.12.2 source tree and Python conversion tools are **not required** for a normal build. See [development](docs/DEVELOPMENT.md) and [contributing](CONTRIBUTING.md).
 
 ## Project information
 
