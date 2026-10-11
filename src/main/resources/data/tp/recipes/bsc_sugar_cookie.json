@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wsw"
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "tp:bsc_sugar_cookie",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_sugar_cookie"
+    }
+  ]
+}

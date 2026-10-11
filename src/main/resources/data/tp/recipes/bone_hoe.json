@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bb ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:bones"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:bone_hoe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BoneTools"
+    }
+  ]
+}

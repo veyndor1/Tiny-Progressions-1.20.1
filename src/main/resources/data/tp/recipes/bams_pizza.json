@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "tp:bams_pizza",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bams_pizza"
+    }
+  ]
+}

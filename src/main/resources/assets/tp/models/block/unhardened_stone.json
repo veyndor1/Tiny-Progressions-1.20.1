@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tp:blocks/unhardened_stone",
+    "particle": "tp:blocks/unhardened_stone"
+  }
+}

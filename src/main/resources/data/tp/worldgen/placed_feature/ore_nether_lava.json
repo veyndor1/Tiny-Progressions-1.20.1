@@ -1,0 +1,8 @@
+{
+  "feature": "tp:ore_nether_lava",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:compressed_sugar_cane"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    }
+  ]
+}

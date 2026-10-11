@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gag",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "tag": "forge:storage_blocks/gold"
+    },
+    "a": {
+      "item": "tp:golden_apple"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ApplePro && ConfigHandler.NotchApple == false"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/pear_juice",
+    "particle": "tp:items/pear_juice"
+  }
+}

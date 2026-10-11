@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cnc",
+    "wew",
+    "cnc"
+  ],
+  "key": {
+    "e": {
+      "tag": "forge:glass"
+    },
+    "w": {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "nbt": "{Potion:\"minecraft:long_swiftness\"}"
+    },
+    "c": {
+      "item": "tp:growth_block"
+    },
+    "n": {
+      "tag": "forge:nether_stars"
+    }
+  },
+  "result": {
+    "item": "tp:growth_upgrade",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BlockGrowthUpgrade && ConfigHandler.BlockGrowth"
+    }
+  ]
+}

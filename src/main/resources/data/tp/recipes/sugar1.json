@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:dead_reed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.old_reed"
+    }
+  ]
+}

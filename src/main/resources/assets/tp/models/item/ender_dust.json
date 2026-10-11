@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/ender_dust",
+    "particle": "tp:items/ender_dust"
+  }
+}

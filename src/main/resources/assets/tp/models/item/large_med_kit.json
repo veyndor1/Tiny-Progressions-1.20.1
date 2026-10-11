@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/large_med_kit",
+    "particle": "tp:items/large_med_kit"
+  }
+}

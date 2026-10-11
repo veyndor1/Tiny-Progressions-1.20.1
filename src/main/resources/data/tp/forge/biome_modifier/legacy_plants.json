@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "tp:legacy_plants",
+  "step": "vegetal_decoration"
+}

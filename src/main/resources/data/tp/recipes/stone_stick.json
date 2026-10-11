@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "c"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:cobblestone"
+    }
+  },
+  "result": {
+    "item": "tp:stone_stick",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.StoneTorch"
+    }
+  ]
+}

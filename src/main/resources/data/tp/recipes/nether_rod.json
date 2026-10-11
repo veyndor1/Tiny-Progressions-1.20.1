@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i",
+    "i"
+  ],
+  "key": {
+    "i": {
+      "item": "tp:soul_sandstone"
+    }
+  },
+  "result": {
+    "item": "tp:nether_rod",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.nether_rod"
+    }
+  ]
+}

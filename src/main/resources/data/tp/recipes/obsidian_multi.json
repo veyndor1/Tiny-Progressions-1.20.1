@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "A": {
+      "item": "tp:obsidian_axe"
+    },
+    "S": {
+      "item": "tp:obsidian_spade"
+    },
+    "P": {
+      "item": "tp:obsidian_pickaxe"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:obsidian_multi",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.obsidian_multi && ConfigHandler.obsidian_axe && ConfigHandler.obsidian_spade && ConfigHandler.obsidian_pickaxe"
+    }
+  ]
+}

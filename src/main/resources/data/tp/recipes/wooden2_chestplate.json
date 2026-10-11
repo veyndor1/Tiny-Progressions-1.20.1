@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "l l",
+    "lll",
+    "lll"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "tp:wooden_chestplate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.WoodArmor"
+    }
+  ]
+}

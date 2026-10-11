@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d d",
+    "ddd",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "tp:emerald_chestplate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.emerald_amor"
+    }
+  ]
+}

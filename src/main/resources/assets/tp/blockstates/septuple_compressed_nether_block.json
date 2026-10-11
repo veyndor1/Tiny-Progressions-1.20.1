@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tp:block/septuple_compressed_nether_block"
+    }
+  }
+}

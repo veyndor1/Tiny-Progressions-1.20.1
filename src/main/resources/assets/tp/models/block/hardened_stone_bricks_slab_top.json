@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "tp:blocks/hardened_stone_bricks",
+    "top": "tp:blocks/hardened_stone_bricks",
+    "side": "tp:blocks/hardened_stone_bricks",
+    "particle": "tp:blocks/hardened_stone_bricks"
+  }
+}

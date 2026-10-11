@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/bread_slice",
+    "particle": "tp:items/bread_slice"
+  }
+}

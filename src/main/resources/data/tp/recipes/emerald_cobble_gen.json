@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "ebe",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "b": {
+      "item": "tp:blaze_cobblegen_block"
+    }
+  },
+  "result": {
+    "item": "tp:emerald_cobblegen_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.EmeraldCobblegen && ConfigHandler.BlazeCobblegen"
+    }
+  ]
+}

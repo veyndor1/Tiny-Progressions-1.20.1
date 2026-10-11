@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/cobblegen_block",
+  "render_type": "minecraft:cutout"
+}

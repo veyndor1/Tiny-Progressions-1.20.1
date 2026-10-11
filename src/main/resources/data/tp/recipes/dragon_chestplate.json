@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d d",
+    "ddd",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:dragon_scale"
+    }
+  },
+  "result": {
+    "item": "tp:dragon_chestplate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.dragon_armor"
+    }
+  ]
+}

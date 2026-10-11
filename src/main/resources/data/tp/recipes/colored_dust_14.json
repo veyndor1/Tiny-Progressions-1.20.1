@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "dgd",
+    "ddd"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "d": {
+      "tag": "forge:dyes/black"
+    }
+  },
+  "result": {
+    "item": "tp:black_dust",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ColorGlowstone"
+    }
+  ]
+}

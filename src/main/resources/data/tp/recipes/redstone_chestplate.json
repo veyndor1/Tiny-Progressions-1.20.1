@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d d",
+    "ddd",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:redstone_ingot"
+    }
+  },
+  "result": {
+    "item": "tp:redstone_chestplate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.redstone_armor"
+    }
+  ]
+}

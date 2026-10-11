@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:netherrack"
+    },
+    "s": {
+      "tag": "forge:rods/nether"
+    }
+  },
+  "result": {
+    "item": "tp:nether_hoe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    }
+  ]
+}

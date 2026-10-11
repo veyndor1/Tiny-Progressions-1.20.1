@@ -1,0 +1,49 @@
+name: Bug report
+description: Report a reproducible issue with the Minecraft 1.20.1 port.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "For security vulnerabilities, use the repository's private vulnerability reporting option. Remove personal paths, account tokens, and server addresses before sharing logs."
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Include Tiny Progressions, Minecraft, Forge, and Java versions.
+      placeholder: "4.0.0-alpha.1 / 1.20.1 / Forge 47.4.10 / Java 17"
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Single-player
+        - Dedicated server
+        - Client connecting to a server
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Describe the smallest sequence that reproduces the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: other_mods
+    attributes:
+      label: Other mods
+      description: List relevant mods and versions, and whether the issue reproduces without them.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Sanitized error excerpt
+      description: Include only the relevant error. Redact private information before submitting.
+      render: text

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:gems/diamond"
+    },
+    "s": {
+      "tag": "forge:rods/nether"
+    }
+  },
+  "result": {
+    "item": "tp:nether_diamond_pickaxe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    }
+  ]
+}

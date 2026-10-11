@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cgc",
+    "scs",
+    "cgc"
+  ],
+  "key": {
+    "s": {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "nbt": "{Potion:\"minecraft:strong_swiftness\"}"
+    },
+    "g": {
+      "item": "tp:growth_upgrade"
+    },
+    "c": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "tp:growth_upgrade_two",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BlockGrowthUpgradeTwo && ConfigHandler.BlockGrowthUpgrade"
+    }
+  ]
+}

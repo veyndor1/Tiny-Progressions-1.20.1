@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wew",
+    "sws",
+    " s "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:ingots/steel"
+    },
+    "w": {
+      "item": "minecraft:water_bucket"
+    },
+    "e": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "tp:infin_bucket",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.infin_bucket"
+    }
+  ]
+}

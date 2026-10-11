@@ -1,0 +1,8 @@
+{
+  "feature": "tp:ore_nether_wub",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

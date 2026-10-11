@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="All Rights Reserved"
+[[mods]]
+modId="tp_audit"
+version="1.0.0"
+displayName="Tiny Progressions Production Audit"
+description="Developer-only audit companion for the packaged player mod."
+[[dependencies.tp_audit]]
+modId="tp"
+mandatory=true
+versionRange="[4.0.0-alpha.1]"
+ordering="AFTER"
+side="CLIENT"
+[[dependencies.tp_audit]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="CLIENT"

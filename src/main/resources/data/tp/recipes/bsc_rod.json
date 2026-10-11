@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i",
+    "i"
+  ],
+  "key": {
+    "i": {
+      "item": "tp:compressed_sugar_cane"
+    }
+  },
+  "result": {
+    "item": "tp:bsc_rod",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_rod"
+    }
+  ]
+}

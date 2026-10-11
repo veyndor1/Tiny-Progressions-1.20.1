@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lll",
+    "l l"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "tp:wooden_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.WoodArmor"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "s s",
+    "s s"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:obsidian"
+    }
+  },
+  "result": {
+    "item": "tp:obsidian_leggings",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.obsidian_armor"
+    }
+  ]
+}

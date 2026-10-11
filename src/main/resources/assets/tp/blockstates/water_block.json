@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tp:block/water_block"
+    }
+  }
+}

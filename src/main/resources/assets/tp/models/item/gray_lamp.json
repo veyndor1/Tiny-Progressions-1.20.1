@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/gray_lamp",
+  "render_type": "minecraft:cutout"
+}

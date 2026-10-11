@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tp:block/triple_compressed_nether_block"
+    }
+  }
+}

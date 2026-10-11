@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gsg",
+    "clc",
+    "gsg"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:clay"
+    },
+    "g": {
+      "item": "minecraft:gravel"
+    },
+    "s": {
+      "item": "minecraft:sand"
+    },
+    "l": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "tp:asphalt_block",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.asphalt"
+    }
+  ]
+}

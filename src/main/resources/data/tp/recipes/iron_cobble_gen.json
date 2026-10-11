@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "igi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "g": {
+      "item": "tp:cobblegen_block"
+    }
+  },
+  "result": {
+    "item": "tp:iron_cobblegen_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.IronCobblegen && ConfigHandler.Cobblegen"
+    }
+  ]
+}

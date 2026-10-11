@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "fff",
+    "fff"
+  ],
+  "key": {
+    "f": {
+      "tag": "forge:flint"
+    }
+  },
+  "result": {
+    "item": "tp:flint_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.FlintBlock"
+    }
+  ]
+}

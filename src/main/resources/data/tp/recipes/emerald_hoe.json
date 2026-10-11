@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ee ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:emerald_hoe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.emerald_hoe"
+    }
+  ]
+}

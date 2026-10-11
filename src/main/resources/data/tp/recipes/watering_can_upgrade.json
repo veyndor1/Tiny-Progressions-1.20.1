@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "on ",
+    "owo",
+    " o "
+  ],
+  "key": {
+    "o": {
+      "tag": "forge:ingots/reinforced_obsidian"
+    },
+    "n": {
+      "item": "minecraft:nether_star"
+    },
+    "w": {
+      "item": "tp:watering_can"
+    }
+  },
+  "result": {
+    "item": "tp:watering_can_upgrade",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.WateringCanUpgrade && ConfigHandler.WateringCan"
+    }
+  ]
+}

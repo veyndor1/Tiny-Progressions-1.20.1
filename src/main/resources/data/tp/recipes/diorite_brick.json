@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ss",
+    "ss"
+  ],
+  "key": {
+    "s": {
+      "tag": "tp:polished_diorite"
+    }
+  },
+  "result": {
+    "item": "tp:diorite_brick",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.DioriteBrick"
+    }
+  ]
+}

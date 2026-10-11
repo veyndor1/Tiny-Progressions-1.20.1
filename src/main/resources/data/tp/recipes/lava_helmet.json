@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "cdc"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:magma_block"
+    },
+    "c": {
+      "item": "minecraft:magma_cream"
+    },
+    "d": {
+      "item": "tp:emerald_helmet"
+    }
+  },
+  "result": {
+    "item": "tp:lava_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.lava_armor"
+    }
+  ]
+}

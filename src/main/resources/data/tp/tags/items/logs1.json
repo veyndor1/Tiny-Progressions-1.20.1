@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:oak_log",
+    "minecraft:spruce_log"
+  ]
+}

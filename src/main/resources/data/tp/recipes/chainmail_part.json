@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "tp:stone_hammer"
+    }
+  ],
+  "result": {
+    "item": "tp:chainmail_part",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.chain_armor"
+    }
+  ]
+}

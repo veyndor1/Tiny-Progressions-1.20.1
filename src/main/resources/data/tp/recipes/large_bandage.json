@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bsb",
+    "sls",
+    "bsb"
+  ],
+  "key": {
+    "l": {
+      "tag": "forge:leather"
+    },
+    "s": {
+      "tag": "forge:string"
+    },
+    "b": {
+      "item": "tp:small_bandage"
+    }
+  },
+  "result": {
+    "item": "tp:large_bandage",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.medical_kits"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tp:block/hardened_stone"
+    }
+  }
+}

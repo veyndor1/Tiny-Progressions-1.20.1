@@ -1,0 +1,8 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "tp:blocks/maloberry_bush",
+    "particle": "tp:blocks/maloberry_bush"
+  },
+  "render_type": "minecraft:cutout"
+}

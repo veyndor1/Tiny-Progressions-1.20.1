@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tp:block/iron_cobblegen_block"
+    }
+  }
+}

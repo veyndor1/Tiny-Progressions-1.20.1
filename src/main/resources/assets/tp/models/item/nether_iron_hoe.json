@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/nether_iron_hoe",
+    "particle": "tp:items/nether_iron_hoe"
+  }
+}

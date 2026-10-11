@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "tag": "tp:juicer"
+    },
+    {
+      "tag": "forge:glass_bottles"
+    }
+  ],
+  "result": {
+    "item": "tp:succ_pearls",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.succ_juice && ConfigHandler.succ_juice_bottle"
+    }
+  ]
+}

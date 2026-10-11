@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kq"
+  ],
+  "key": {
+    "k": {
+      "item": "tp:quartz_knife"
+    },
+    "q": {
+      "tag": "forge:gems/quartz"
+    }
+  },
+  "result": {
+    "item": "tp:quartz_dust",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.QuartzKnife"
+    }
+  ]
+}

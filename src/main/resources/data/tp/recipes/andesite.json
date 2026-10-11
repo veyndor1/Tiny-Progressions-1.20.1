@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:andesite_brick"
+    }
+  ],
+  "result": {
+    "item": "minecraft:polished_andesite",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.AndesiteBrick"
+    }
+  ]
+}

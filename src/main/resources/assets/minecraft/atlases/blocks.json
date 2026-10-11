@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "source": "blocks",
+      "prefix": "blocks/"
+    },
+    {
+      "type": "minecraft:directory",
+      "source": "items",
+      "prefix": "items/"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "tp:fluids/wub_juice_still",
+      "sprite": "tp:fluids/wub_juice_still"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "tp:fluids/wub_juice_flow",
+      "sprite": "tp:fluids/wub_juice_flow"
+    }
+  ]
+}

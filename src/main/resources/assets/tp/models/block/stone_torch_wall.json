@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall_torch",
+  "textures": {
+    "torch": "tp:blocks/stone_torch",
+    "particle": "tp:blocks/stone_torch"
+  },
+  "render_type": "minecraft:cutout"
+}

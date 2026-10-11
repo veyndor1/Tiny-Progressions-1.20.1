@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tp:blocks/asphalt_block",
+    "particle": "tp:blocks/asphalt_block"
+  }
+}

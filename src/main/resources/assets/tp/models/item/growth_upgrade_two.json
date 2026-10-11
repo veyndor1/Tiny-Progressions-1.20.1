@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/growth_upgrade_two",
+  "render_type": "minecraft:cutout"
+}

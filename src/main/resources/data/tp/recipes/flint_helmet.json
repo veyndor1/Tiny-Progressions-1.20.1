@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "f f"
+  ],
+  "key": {
+    "f": {
+      "tag": "forge:flint"
+    }
+  },
+  "result": {
+    "item": "tp:flint_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.FlintArmor"
+    }
+  ]
+}

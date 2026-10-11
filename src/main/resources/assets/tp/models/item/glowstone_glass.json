@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/glowstone_glass",
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cic",
+    "isi",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:string"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "tp:hardened_stone"
+    }
+  },
+  "result": {
+    "item": "tp:stone_hammer",
+    "count": 1
+  }
+}

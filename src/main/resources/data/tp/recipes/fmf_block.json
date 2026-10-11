@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ifi",
+    "fif",
+    "ifi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "f": {
+      "tag": "forge:feathers"
+    }
+  },
+  "result": {
+    "item": "tp:fmf_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.angel_block"
+    }
+  ]
+}

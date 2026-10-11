@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "tp:stone_hammer"
+    }
+  ],
+  "result": {
+    "item": "tp:tiny_coal",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.tiny_coal"
+    }
+  ]
+}

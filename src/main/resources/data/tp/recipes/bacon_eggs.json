@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:cooked_bacon"
+    },
+    {
+      "item": "tp:fried_egg"
+    },
+    {
+      "item": "tp:fried_egg"
+    }
+  ],
+  "result": {
+    "item": "tp:bacon_eggs",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.Sandwiches"
+    }
+  ]
+}

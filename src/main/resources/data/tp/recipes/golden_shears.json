@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sp",
+    "ps"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:rods/wooden"
+    },
+    "p": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "tp:golden_shears",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.golden_shears"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:bone_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BoneBlock"
+    }
+  ]
+}

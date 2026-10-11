@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s s",
+    "s s"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:cobblestone"
+    }
+  },
+  "result": {
+    "item": "tp:stone_boots",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.StoneArmor"
+    }
+  ]
+}

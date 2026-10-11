@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/repair_tablet",
+    "particle": "tp:items/repair_tablet"
+  }
+}

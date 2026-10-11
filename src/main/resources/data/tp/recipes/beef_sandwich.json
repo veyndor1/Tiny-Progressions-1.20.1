@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:bread_slice"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "tp:bread_slice"
+    }
+  ],
+  "result": {
+    "item": "tp:beef_sandwhich",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.Sandwiches"
+    }
+  ]
+}

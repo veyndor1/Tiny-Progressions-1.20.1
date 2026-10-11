@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "tp:hardened_stone"
+    }
+  },
+  "result": {
+    "item": "tp:hardened_stone_slab_half",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.hardened_stone"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/c_axe",
+    "particle": "tp:items/c_axe"
+  }
+}

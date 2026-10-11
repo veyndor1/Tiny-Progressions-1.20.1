@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tp:blocks/double_compressed_nether_block",
+    "particle": "tp:blocks/double_compressed_nether_block"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "A": {
+      "item": "tp:emerald_axe"
+    },
+    "S": {
+      "item": "tp:emerald_spade"
+    },
+    "P": {
+      "item": "tp:emerald_pickaxe"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:emerald_multi",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.emerald_multi && ConfigHandler.emerald_axe && ConfigHandler.emerald_spade && ConfigHandler.emerald_pickaxe"
+    }
+  ]
+}

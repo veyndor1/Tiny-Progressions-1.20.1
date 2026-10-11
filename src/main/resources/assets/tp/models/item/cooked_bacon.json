@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/cooked_bacon",
+    "particle": "tp:items/cooked_bacon"
+  }
+}

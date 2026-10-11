@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": "tp:monster_jerky",
+  "experience": 0.5,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.MonsterJerky"
+    }
+  ]
+}

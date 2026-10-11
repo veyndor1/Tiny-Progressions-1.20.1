@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "s s"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:cobblestone"
+    }
+  },
+  "result": {
+    "item": "tp:stone_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.StoneArmor"
+    }
+  ]
+}

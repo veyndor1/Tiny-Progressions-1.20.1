@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:quartz_ingot"
+    }
+  },
+  "result": {
+    "item": "tp:quartz_leggings",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.quartz_armor"
+    }
+  ]
+}

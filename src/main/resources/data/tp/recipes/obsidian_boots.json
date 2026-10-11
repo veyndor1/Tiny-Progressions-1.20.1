@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s s",
+    "s s"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:obsidian"
+    }
+  },
+  "result": {
+    "item": "tp:obsidian_boots",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.obsidian_armor"
+    }
+  ]
+}

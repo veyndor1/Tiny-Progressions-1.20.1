@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Installation and configuration
+    url: https://github.com/veyndor1/Tiny-Progressions-1.20.1#quick-installation
+    about: Review the guides before reporting a setup problem.
+  - name: Private security report
+    url: https://github.com/veyndor1/Tiny-Progressions-1.20.1/security/advisories/new
+    about: Report vulnerabilities privately.

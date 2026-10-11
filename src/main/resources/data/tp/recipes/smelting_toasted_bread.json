@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "tp:toasted_bread",
+  "experience": 0.5,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ToastedBread"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dt"
+  ],
+  "key": {
+    "d": {
+      "tag": "forge:glass/colorless"
+    },
+    "t": {
+      "tag": "tp:torches"
+    }
+  },
+  "result": {
+    "item": "tp:lamp",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ColorLamps"
+    }
+  ]
+}

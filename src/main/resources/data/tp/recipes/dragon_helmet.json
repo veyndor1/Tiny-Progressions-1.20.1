@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:dragon_scale"
+    }
+  },
+  "result": {
+    "item": "tp:dragon_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.dragon_armor"
+    }
+  ]
+}

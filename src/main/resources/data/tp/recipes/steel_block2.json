@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tp:steel_block"
+    }
+  ],
+  "result": {
+    "item": "tp:steel_ingot",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.steel_ingot"
+    }
+  ]
+}

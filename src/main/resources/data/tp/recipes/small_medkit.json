@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "b": {
+      "item": "tp:large_bandage"
+    }
+  },
+  "result": {
+    "item": "tp:small_med_kit",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.medical_kits"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:gems/diamond"
+    },
+    "s": {
+      "tag": "forge:rods/cane"
+    }
+  },
+  "result": {
+    "item": "tp:bsc_diamond_pickaxe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bdb",
+    "c c",
+    "b b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:magma_block"
+    },
+    "c": {
+      "item": "minecraft:magma_cream"
+    },
+    "d": {
+      "item": "tp:emerald_leggings"
+    }
+  },
+  "result": {
+    "item": "tp:lava_leggings",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.lava_armor"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dd",
+    "dd"
+  ],
+  "key": {
+    "d": {
+      "tag": "forge:dusts/light_blue_glowstone"
+    }
+  },
+  "result": {
+    "item": "tp:lightblue_glowstone",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ColorGlowstone"
+    }
+  ]
+}

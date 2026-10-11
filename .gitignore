@@ -1,0 +1,57 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Local runtime data and verification outputs
+/run-data/
+/mcmodsrepo/
+*.log
+*.log.*
+*.hprof
+__pycache__/
+*.py[cod]
+/migration/*
+!/migration/catalog.json
+!/migration/metadata-map.json
+
+# Local editor, assistant and machine settings
+.vscode/
+.codex/
+.agents/
+.env
+.env.*
+local.properties
+
+# Downloaded development distributions and release binaries
+/forge-mdk.zip
+/*.jar
+/dist/
+/.publication-private/
+*.bak
+
+# Superseded MDK scaffolding; retained notices are in LICENSES/
+/README.txt
+/changelog.txt
+/LICENSE.txt

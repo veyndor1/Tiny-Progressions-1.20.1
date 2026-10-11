@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "tp:compressed_sugar"
+    }
+  },
+  "result": {
+    "item": "tp:double_compressed_sugar",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_sugar_compressed_blocks"
+    }
+  ]
+}

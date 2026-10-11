@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ss",
+    "ss"
+  ],
+  "key": {
+    "s": {
+      "tag": "tp:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "tp:andesite_brick",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.AndesiteBrick"
+    }
+  ]
+}

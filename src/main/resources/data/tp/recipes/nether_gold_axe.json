@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii ",
+    "is ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/gold"
+    },
+    "s": {
+      "tag": "forge:rods/nether"
+    }
+  },
+  "result": {
+    "item": "tp:nether_gold_axe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    }
+  ]
+}

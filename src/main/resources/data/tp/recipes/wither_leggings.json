@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "w w",
+    "w w"
+  ],
+  "key": {
+    "w": {
+      "item": "tp:wither_rib"
+    }
+  },
+  "result": {
+    "item": "tp:wither_leggings",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.wither_armor"
+    }
+  ]
+}

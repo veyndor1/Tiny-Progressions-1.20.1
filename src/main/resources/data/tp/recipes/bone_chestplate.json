@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "b b",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:bones"
+    }
+  },
+  "result": {
+    "item": "tp:bone_chestplate",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.BoneArmor"
+    }
+  ]
+}

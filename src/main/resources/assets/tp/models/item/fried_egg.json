@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/fried_egg",
+    "particle": "tp:items/fried_egg"
+  }
+}

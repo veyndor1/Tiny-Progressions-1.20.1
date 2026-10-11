@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:red_mushroom"
+  },
+  "result": "tp:cooked_mushroom_red",
+  "experience": 0.5,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.CookedMushrooms"
+    }
+  ]
+}

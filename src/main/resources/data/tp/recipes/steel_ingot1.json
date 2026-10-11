@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "ihi",
+    "sss"
+  ],
+  "key": {
+    "h": {
+      "item": "tp:stone_hammer"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "result": {
+    "item": "tp:steel_ingot",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.steel_ingot"
+    }
+  ]
+}

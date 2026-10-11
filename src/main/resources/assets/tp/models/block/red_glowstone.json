@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tp:blocks/red_glowstone",
+    "particle": "tp:blocks/red_glowstone"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "ccc",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "tp:double_compressed_nether_block"
+    }
+  },
+  "result": {
+    "item": "tp:triple_compressed_nether_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.nether_compressed_blocks"
+    }
+  ]
+}

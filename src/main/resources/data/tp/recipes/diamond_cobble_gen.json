@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "did",
+    "ddd"
+  ],
+  "key": {
+    "d": {
+      "tag": "forge:gems/diamond"
+    },
+    "i": {
+      "item": "tp:iron_cobblegen_block"
+    }
+  },
+  "result": {
+    "item": "tp:diamond_cobblegen_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.DiamondCobblegen && ConfigHandler.IronCobblegen"
+    }
+  ]
+}

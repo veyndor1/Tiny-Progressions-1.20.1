@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "ses",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "e": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "tp:mycelium_seeds",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.MyceliumSeeds"
+    }
+  ]
+}

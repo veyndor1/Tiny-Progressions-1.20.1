@@ -1,0 +1,2783 @@
+[
+  {
+    "name": "chainmail_helmet",
+    "conditions": [
+      "ArmorHandler.chain_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "chainmail_chestplate",
+    "conditions": [
+      "ArmorHandler.chain_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "chainmail_leggings",
+    "conditions": [
+      "ArmorHandler.chain_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "chainmail_boots",
+    "conditions": [
+      "ArmorHandler.chain_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_helmet",
+    "conditions": [
+      "ArmorHandler.StoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_chestplate",
+    "conditions": [
+      "ArmorHandler.StoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_leggings",
+    "conditions": [
+      "ArmorHandler.StoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_boots",
+    "conditions": [
+      "ArmorHandler.StoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_helmet",
+    "conditions": [
+      "ArmorHandler.obsidian_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_chestplate",
+    "conditions": [
+      "ArmorHandler.obsidian_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_leggings",
+    "conditions": [
+      "ArmorHandler.obsidian_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_boots",
+    "conditions": [
+      "ArmorHandler.obsidian_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_helmet",
+    "conditions": [
+      "ArmorHandler.FlintArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_chestplate",
+    "conditions": [
+      "ArmorHandler.FlintArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_leggings",
+    "conditions": [
+      "ArmorHandler.FlintArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_boots",
+    "conditions": [
+      "ArmorHandler.FlintArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_helmet",
+    "conditions": [
+      "ArmorHandler.BoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_chestplate",
+    "conditions": [
+      "ArmorHandler.BoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_leggings",
+    "conditions": [
+      "ArmorHandler.BoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_boots",
+    "conditions": [
+      "ArmorHandler.BoneArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_helmet",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_chestplate",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_leggings",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_boots",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden2_helmet",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden2_chestplate",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden2_leggings",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden2_boots",
+    "conditions": [
+      "ArmorHandler.WoodArmor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lava_helmet",
+    "conditions": [
+      "ArmorHandler.lava_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lava_chestplate",
+    "conditions": [
+      "ArmorHandler.lava_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lava_leggings",
+    "conditions": [
+      "ArmorHandler.lava_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lava_boots",
+    "conditions": [
+      "ArmorHandler.lava_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wither_helmet",
+    "conditions": [
+      "ArmorHandler.wither_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wither_chestplate",
+    "conditions": [
+      "ArmorHandler.wither_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wither_leggings",
+    "conditions": [
+      "ArmorHandler.wither_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wither_boots",
+    "conditions": [
+      "ArmorHandler.wither_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "dragon_helmet",
+    "conditions": [
+      "ArmorHandler.dragon_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "dragon_chestplate",
+    "conditions": [
+      "ArmorHandler.dragon_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "dragon_leggings",
+    "conditions": [
+      "ArmorHandler.dragon_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "dragon_boots",
+    "conditions": [
+      "ArmorHandler.dragon_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lapis_ingot",
+    "conditions": [
+      "ArmorHandler.lapis_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lapis_helmet",
+    "conditions": [
+      "ArmorHandler.lapis_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lapis_chestplate",
+    "conditions": [
+      "ArmorHandler.lapis_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lapis_leggings",
+    "conditions": [
+      "ArmorHandler.lapis_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lapis_boots",
+    "conditions": [
+      "ArmorHandler.lapis_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_ingot",
+    "conditions": [
+      "ArmorHandler.redstone_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_helmet",
+    "conditions": [
+      "ArmorHandler.redstone_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_chestplate",
+    "conditions": [
+      "ArmorHandler.redstone_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_leggings",
+    "conditions": [
+      "ArmorHandler.redstone_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_boots",
+    "conditions": [
+      "ArmorHandler.redstone_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_ingot",
+    "conditions": [
+      "ArmorHandler.quartz_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_helmet",
+    "conditions": [
+      "ArmorHandler.quartz_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_chestplate",
+    "conditions": [
+      "ArmorHandler.quartz_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_leggings",
+    "conditions": [
+      "ArmorHandler.quartz_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_boots",
+    "conditions": [
+      "ArmorHandler.quartz_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_helmet",
+    "conditions": [
+      "ArmorHandler.emerald_amor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_chestplate",
+    "conditions": [
+      "ArmorHandler.emerald_amor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_leggings",
+    "conditions": [
+      "ArmorHandler.emerald_amor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_boots",
+    "conditions": [
+      "ArmorHandler.emerald_amor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bam_tshirt",
+    "conditions": [
+      "ArmorHandler.emerald_amor && ArmorHandler.bam_tshirt"
+    ],
+    "tags": []
+  },
+  {
+    "name": "ironfurnace",
+    "conditions": [
+      "ConfigHandler.iron_furnace"
+    ],
+    "tags": []
+  },
+  {
+    "name": "glowstone_glass",
+    "conditions": [
+      "ConfigHandler.glowstone_glass"
+    ],
+    "tags": []
+  },
+  {
+    "name": "steel_block",
+    "conditions": [
+      "ConfigHandler.steel_ingot"
+    ],
+    "tags": []
+  },
+  {
+    "name": "steel_block2",
+    "conditions": [
+      "ConfigHandler.steel_ingot"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lava_infused_stone",
+    "conditions": [
+      "ConfigHandler.lava_infused_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "asphalt",
+    "conditions": [
+      "ConfigHandler.asphalt"
+    ],
+    "tags": []
+  },
+  {
+    "name": "soul_sandstone",
+    "conditions": [
+      "ConfigHandler.nether_rod"
+    ],
+    "tags": []
+  },
+  {
+    "name": "soul_sand",
+    "conditions": [
+      "ConfigHandler.nether_rod"
+    ],
+    "tags": []
+  },
+  {
+    "name": "netherrack",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_2_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_2_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_3_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_3_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_4_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_4_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_5_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_5_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_6_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_6_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_7_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_7_nether2",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_8_nether",
+    "conditions": [
+      "ConfigHandler.nether_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "sugar",
+    "conditions": [
+      "ConfigHandler.bsc_sugar_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_sugar",
+    "conditions": [
+      "ConfigHandler.bsc_sugar_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_sugar2",
+    "conditions": [
+      "ConfigHandler.bsc_sugar_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_2_sugar",
+    "conditions": [
+      "ConfigHandler.bsc_sugar_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_2_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_2_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_3_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_3_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_4_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_4_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_5_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_5_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_6_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_6_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_7_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_7_cane2",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "compressed_8_cane",
+    "conditions": [
+      "ConfigHandler.bsc_sugarcane_compressed_blocks"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_stick",
+    "conditions": [
+      "ConfigHandler.StoneTorch"
+    ],
+    "tags": []
+  },
+  {
+    "name": "growth_block",
+    "conditions": [
+      "ConfigHandler.BlockGrowth"
+    ],
+    "tags": []
+  },
+  {
+    "name": "growth_upgrade",
+    "conditions": [
+      "ConfigHandler.BlockGrowthUpgrade && ConfigHandler.BlockGrowth"
+    ],
+    "tags": []
+  },
+  {
+    "name": "growth_upgrade_two",
+    "conditions": [
+      "ConfigHandler.BlockGrowthUpgradeTwo && ConfigHandler.BlockGrowthUpgrade"
+    ],
+    "tags": []
+  },
+  {
+    "name": "cobble_gen",
+    "conditions": [
+      "ConfigHandler.Cobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "cobble_gen2",
+    "conditions": [
+      "ConfigHandler.Cobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_cobble_gen",
+    "conditions": [
+      "ConfigHandler.IronCobblegen && ConfigHandler.Cobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_cobble_gen",
+    "conditions": [
+      "ConfigHandler.DiamondCobblegen && ConfigHandler.IronCobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "blaze_cobble_gen",
+    "conditions": [
+      "ConfigHandler.BlazeCobblegen && ConfigHandler.DiamondCobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_cobble_gen",
+    "conditions": [
+      "ConfigHandler.EmeraldCobblegen && ConfigHandler.BlazeCobblegen"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_torch",
+    "conditions": [
+      "ConfigHandler.StoneTorch"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_torch2",
+    "conditions": [
+      "ConfigHandler.StoneTorch"
+    ],
+    "tags": []
+  },
+  {
+    "name": "glass",
+    "conditions": [
+      "ConfigHandler.ReinforcedGlass"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian",
+    "conditions": [
+      "ConfigHandler.ReinforcedObsidian"
+    ],
+    "tags": []
+  },
+  {
+    "name": "dirty_glass",
+    "conditions": [
+      "ConfigHandler.DirtyGlass"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flesh_block",
+    "conditions": [
+      "ConfigHandler.FleshBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "rotten_flesh",
+    "conditions": [
+      "ConfigHandler.FleshBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_block",
+    "conditions": [
+      "ConfigHandler.BoneBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone",
+    "conditions": [
+      "ConfigHandler.BoneBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "netherstar_block",
+    "conditions": [
+      "ConfigHandler.NetherStarBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "netherstar",
+    "conditions": [
+      "ConfigHandler.NetherStarBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_block",
+    "conditions": [
+      "ConfigHandler.FlintBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint",
+    "conditions": [
+      "ConfigHandler.FlintBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "charcoal_block",
+    "conditions": [
+      "ConfigHandler.CharcoalBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "charcoal",
+    "conditions": [
+      "ConfigHandler.CharcoalBlock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diorite_brick",
+    "conditions": [
+      "ConfigHandler.DioriteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diorite",
+    "conditions": [
+      "ConfigHandler.DioriteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "granite_brick",
+    "conditions": [
+      "ConfigHandler.GraniteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "granite",
+    "conditions": [
+      "ConfigHandler.GraniteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "andesite_brick",
+    "conditions": [
+      "ConfigHandler.AndesiteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "andesite",
+    "conditions": [
+      "ConfigHandler.AndesiteBrick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "unhardened_stone",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonebricks",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonesmallbricks",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stone_stairs",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonebricks_stairs",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonesmallbricks_stairs",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stone_slab",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonebricks_slab",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "hardened_stonesmallbricks_slab",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "fmf_block",
+    "conditions": [
+      "ConfigHandler.angel_block"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_0",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_1",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_2",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_3",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_4",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_5",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_6",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_7",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_8",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_9",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_10",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_11",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_12",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_13",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_glowstone_14",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "lamp",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_0",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_1",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_2",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_3",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_4",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_5",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_6",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_7",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_8",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_9",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_10",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_11",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_12",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_13",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_lamps_14",
+    "conditions": [
+      "ConfigHandler.ColorLamps"
+    ],
+    "tags": []
+  },
+  {
+    "name": "secret_block",
+    "conditions": [],
+    "tags": []
+  },
+  {
+    "name": "bsc_sugar_cookie",
+    "conditions": [
+      "ConfigHandler.bsc_sugar_cookie"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bams_pizza",
+    "conditions": [
+      "ConfigHandler.bams_pizza"
+    ],
+    "tags": []
+  },
+  {
+    "name": "succ_pearls",
+    "conditions": [
+      "ConfigHandler.succ_juice && !ConfigHandler.succ_juice_bottle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "foodrecipes_succ_pearls",
+    "conditions": [
+      "ConfigHandler.succ_juice && ConfigHandler.succ_juice_bottle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "pear_juice",
+    "conditions": [
+      "!ConfigHandler.extra_drop_bottle && ConfigHandler.extra_drops"
+    ],
+    "tags": []
+  },
+  {
+    "name": "peach_juice",
+    "conditions": [
+      "!ConfigHandler.extra_drop_bottle && ConfigHandler.extra_drops"
+    ],
+    "tags": []
+  },
+  {
+    "name": "pear_juice2",
+    "conditions": [
+      "ConfigHandler.extra_drop_bottle && ConfigHandler.extra_drops"
+    ],
+    "tags": []
+  },
+  {
+    "name": "peach_juice2",
+    "conditions": [
+      "ConfigHandler.extra_drop_bottle && ConfigHandler.extra_drops"
+    ],
+    "tags": []
+  },
+  {
+    "name": "apple_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "carrot_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "potato_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "beet_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "cactus_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "slime_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wheat_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "melon_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "pumpkin_juice",
+    "conditions": [
+      "ConfigHandler.all_juices && ConfigHandler.JuiceBottles == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "apple_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "carrot_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "potato_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "beet_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "cactus_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "slime_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wheat_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "melon_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "pumpkin_juice2",
+    "conditions": [
+      "ConfigHandler.JuiceBottles && ConfigHandler.all_juices == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "raspberry_juice",
+    "conditions": [
+      "ConfigHandler.ExtraJuices && !ConfigHandler.ExtraJuicesBottles"
+    ],
+    "tags": []
+  },
+  {
+    "name": "blueberry_juice",
+    "conditions": [
+      "ConfigHandler.ExtraJuices && !ConfigHandler.ExtraJuicesBottles"
+    ],
+    "tags": []
+  },
+  {
+    "name": "blackberry_juice",
+    "conditions": [
+      "ConfigHandler.ExtraJuices && !ConfigHandler.ExtraJuicesBottles"
+    ],
+    "tags": []
+  },
+  {
+    "name": "maloberry_juice",
+    "conditions": [
+      "ConfigHandler.ExtraJuices && !ConfigHandler.ExtraJuicesBottles"
+    ],
+    "tags": []
+  },
+  {
+    "name": "raspberry_juice2",
+    "conditions": [
+      "ConfigHandler.ExtraJuicesBottles && !ConfigHandler.ExtraJuices"
+    ],
+    "tags": []
+  },
+  {
+    "name": "blueberry_juice2",
+    "conditions": [
+      "ConfigHandler.ExtraJuicesBottles && !ConfigHandler.ExtraJuices"
+    ],
+    "tags": []
+  },
+  {
+    "name": "blackberry_juice2",
+    "conditions": [
+      "ConfigHandler.ExtraJuicesBottles && !ConfigHandler.ExtraJuices"
+    ],
+    "tags": []
+  },
+  {
+    "name": "maloberry_juice2",
+    "conditions": [
+      "ConfigHandler.ExtraJuicesBottles && !ConfigHandler.ExtraJuices"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_apple",
+    "conditions": [
+      "ConfigHandler.DiamondApple"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_apple",
+    "conditions": [
+      "ConfigHandler.EmeraldApple"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_apple",
+    "conditions": [
+      "ConfigHandler.iron_apple"
+    ],
+    "tags": []
+  },
+  {
+    "name": "redstone_apple",
+    "conditions": [
+      "ConfigHandler.redstone_apple"
+    ],
+    "tags": []
+  },
+  {
+    "name": "golden_apple1",
+    "conditions": [
+      "ConfigHandler.ApplePro && ConfigHandler.NotchApple == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "golden_apple2",
+    "conditions": [
+      "ConfigHandler.ApplePro && ConfigHandler.NotchApple == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "golden_apple3",
+    "conditions": [
+      "ConfigHandler.ApplePro && ConfigHandler.NotchApple == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "golden_apple4",
+    "conditions": [
+      "ConfigHandler.NotchApple && ConfigHandler.ApplePro == false"
+    ],
+    "tags": []
+  },
+  {
+    "name": "raw_bacon",
+    "conditions": [
+      "ConfigHandler.CookedBacon"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bacon_eggs",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bacon_eggs_sandwich",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bread_slice",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bacon_sandwich",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "beef_sandwich",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "chicken_sandwich",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "rabbit_sandwich",
+    "conditions": [
+      "ConfigHandler.Sandwiches"
+    ],
+    "tags": []
+  },
+  {
+    "name": "juicer",
+    "conditions": [],
+    "tags": []
+  },
+  {
+    "name": "nether_rod",
+    "conditions": [
+      "ConfigHandler.nether_rod"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_rod",
+    "conditions": [
+      "ConfigHandler.bsc_rod"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_0",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_1",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_2",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_3",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_4",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_5",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_6",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_7",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_8",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_9",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_10",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_11",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_12",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_13",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "colored_dust_14",
+    "conditions": [
+      "ConfigHandler.ColorGlowstone"
+    ],
+    "tags": []
+  },
+  {
+    "name": "watering_can",
+    "conditions": [
+      "ConfigHandler.WateringCan"
+    ],
+    "tags": []
+  },
+  {
+    "name": "watering_can_upgrade",
+    "conditions": [
+      "ConfigHandler.WateringCanUpgrade && ConfigHandler.WateringCan"
+    ],
+    "tags": []
+  },
+  {
+    "name": "small_bandage",
+    "conditions": [
+      "ConfigHandler.medical_kits"
+    ],
+    "tags": []
+  },
+  {
+    "name": "large_bandage",
+    "conditions": [
+      "ConfigHandler.medical_kits"
+    ],
+    "tags": []
+  },
+  {
+    "name": "small_medkit",
+    "conditions": [
+      "ConfigHandler.medical_kits"
+    ],
+    "tags": []
+  },
+  {
+    "name": "large_medkit",
+    "conditions": [
+      "ConfigHandler.medical_kits"
+    ],
+    "tags": []
+  },
+  {
+    "name": "enderpearl",
+    "conditions": [
+      "ConfigHandler.ender_ore"
+    ],
+    "tags": []
+  },
+  {
+    "name": "repair_tablet",
+    "conditions": [
+      "ConfigHandler.repair_tablet"
+    ],
+    "tags": []
+  },
+  {
+    "name": "tiny_charcoal",
+    "conditions": [
+      "ConfigHandler.tiny_charcoal"
+    ],
+    "tags": []
+  },
+  {
+    "name": "charcoal1",
+    "conditions": [
+      "ConfigHandler.tiny_charcoal"
+    ],
+    "tags": []
+  },
+  {
+    "name": "tiny_coal",
+    "conditions": [
+      "ConfigHandler.tiny_coal"
+    ],
+    "tags": []
+  },
+  {
+    "name": "coal",
+    "conditions": [
+      "ConfigHandler.tiny_coal"
+    ],
+    "tags": []
+  },
+  {
+    "name": "chainmail_part",
+    "conditions": [
+      "ArmorHandler.chain_armor"
+    ],
+    "tags": []
+  },
+  {
+    "name": "steel_ingot",
+    "conditions": [
+      "ConfigHandler.steel_ingot"
+    ],
+    "tags": []
+  },
+  {
+    "name": "steel_ingot1",
+    "conditions": [
+      "ConfigHandler.steel_ingot"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_dust",
+    "conditions": [],
+    "tags": []
+  },
+  {
+    "name": "stone_hammer",
+    "conditions": [],
+    "tags": []
+  },
+  {
+    "name": "wooden_shears",
+    "conditions": [
+      "ConfigHandler.wooden_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "golden_shears",
+    "conditions": [
+      "ConfigHandler.golden_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_shears",
+    "conditions": [
+      "ConfigHandler.diamond_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_shears",
+    "conditions": [
+      "ConfigHandler.emerald_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_shears",
+    "conditions": [
+      "ConfigHandler.flint_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_shears",
+    "conditions": [
+      "ConfigHandler.stone_shears"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_juice",
+    "conditions": [
+      "ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "infin_water_bucket",
+    "conditions": [
+      "ConfigHandler.infin_bucket"
+    ],
+    "tags": []
+  },
+  {
+    "name": "pouch",
+    "conditions": [
+      "ConfigHandler.pouch"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint1",
+    "conditions": [
+      "ConfigHandler.FlintRecipe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_knife",
+    "conditions": [
+      "ConfigHandler.QuartzKnife"
+    ],
+    "tags": []
+  },
+  {
+    "name": "quartz_dust",
+    "conditions": [
+      "ConfigHandler.QuartzKnife"
+    ],
+    "tags": []
+  },
+  {
+    "name": "mycelium_seeds",
+    "conditions": [
+      "ConfigHandler.MyceliumSeeds"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_ingot",
+    "conditions": [
+      "ConfigHandler.ReinforcedObsidian"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian1",
+    "conditions": [
+      "ConfigHandler.ReinforcedObsidian"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_knife",
+    "conditions": [
+      "ConfigHandler.FlintKnife"
+    ],
+    "tags": []
+  },
+  {
+    "name": "sugar1",
+    "conditions": [
+      "ConfigHandler.old_reed"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_axe",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_axe2",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_hoe",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_hoe2",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_pickaxe",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_spade",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_sword",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_paxel",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wub_hammer",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ],
+    "tags": []
+  },
+  {
+    "name": "c_axe",
+    "conditions": [
+      "ConfigHandler.c_axe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_axe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_axe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_hoe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_hoe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_pickaxe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_spade",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_iron_sword",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_axe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_axe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_hoe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_hoe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_pickaxe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_spade",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_gold_sword",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_axe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_axe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_hoe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_hoe2",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_pickaxe",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_spade",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bsc_diamond_sword",
+    "conditions": [
+      "ConfigHandler.bsc_rod && ConfigHandler.bsc_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_axe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_axe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_hoe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_hoe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_pickaxe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_spade",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_iron_sword",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_iron_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_axe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_axe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_hoe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_hoe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_pickaxe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_spade",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_gold_sword",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_gold_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_axe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_axe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_hoe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_hoe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_pickaxe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_spade",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_diamond_sword",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_diamond_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_axe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_axe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_hoe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_hoe2",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_pickaxe",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_spade",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "nether_sword",
+    "conditions": [
+      "ConfigHandler.nether_rod && ConfigHandler.nether_tools_weapons"
+    ],
+    "tags": []
+  },
+  {
+    "name": "kappa_pick",
+    "conditions": [
+      "ConfigHandler.kappa_pick"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_pickaxe",
+    "conditions": [
+      "ConfigHandler.FlintTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_axe",
+    "conditions": [
+      "ConfigHandler.FlintTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_spade",
+    "conditions": [
+      "ConfigHandler.FlintTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_sword",
+    "conditions": [
+      "ConfigHandler.FlintTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "flint_hoe",
+    "conditions": [
+      "ConfigHandler.FlintTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_pickaxe",
+    "conditions": [
+      "ConfigHandler.BoneTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_axe",
+    "conditions": [
+      "ConfigHandler.BoneTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_spade",
+    "conditions": [
+      "ConfigHandler.BoneTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_sword",
+    "conditions": [
+      "ConfigHandler.BoneTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "bone_hoe",
+    "conditions": [
+      "ConfigHandler.BoneTools"
+    ],
+    "tags": []
+  },
+  {
+    "name": "birthday_pickaxe",
+    "conditions": [
+      "ConfigHandler.BirthdayPickaxe && ConfigHandler.ReinforcedObsidian"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_scythe",
+    "conditions": [
+      "ConfigHandler.wooden_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_scythe",
+    "conditions": [
+      "ConfigHandler.stone_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "gold_scythe",
+    "conditions": [
+      "ConfigHandler.golden_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_scythe",
+    "conditions": [
+      "ConfigHandler.iron_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_scythe",
+    "conditions": [
+      "ConfigHandler.diamond_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_scythe",
+    "conditions": [
+      "ConfigHandler.emerald_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_scythe",
+    "conditions": [
+      "ConfigHandler.obsidian_scythe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_axe",
+    "conditions": [
+      "ConfigHandler.emerald_axe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_pickaxe",
+    "conditions": [
+      "ConfigHandler.emerald_pickaxe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_spade",
+    "conditions": [
+      "ConfigHandler.emerald_spade"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_hoe",
+    "conditions": [
+      "ConfigHandler.emerald_hoe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_sword",
+    "conditions": [
+      "ConfigHandler.emerald_sword"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_axe",
+    "conditions": [
+      "ConfigHandler.obsidian_axe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_pickaxe",
+    "conditions": [
+      "ConfigHandler.obsidian_pickaxe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_spade",
+    "conditions": [
+      "ConfigHandler.obsidian_spade"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_hoe",
+    "conditions": [
+      "ConfigHandler.obsidian_hoe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_sword",
+    "conditions": [
+      "ConfigHandler.obsidian_sword"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_multi",
+    "conditions": [
+      "ConfigHandler.wooden_multi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_multi",
+    "conditions": [
+      "ConfigHandler.stone_multi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "gold_multi",
+    "conditions": [
+      "ConfigHandler.golden_multi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_multi",
+    "conditions": [
+      "ConfigHandler.iron_multi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_multi",
+    "conditions": [
+      "ConfigHandler.diamond_multi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_multi",
+    "conditions": [
+      "ConfigHandler.emerald_multi && ConfigHandler.emerald_axe && ConfigHandler.emerald_spade && ConfigHandler.emerald_pickaxe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_multi",
+    "conditions": [
+      "ConfigHandler.obsidian_multi && ConfigHandler.obsidian_axe && ConfigHandler.obsidian_spade && ConfigHandler.obsidian_pickaxe"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_battle",
+    "conditions": [
+      "ConfigHandler.wooden_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_battle",
+    "conditions": [
+      "ConfigHandler.stone_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "gold_battle",
+    "conditions": [
+      "ConfigHandler.golden_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_battle",
+    "conditions": [
+      "ConfigHandler.iron_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_battle",
+    "conditions": [
+      "ConfigHandler.diamond_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_battle",
+    "conditions": [
+      "ConfigHandler.emerald_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_battle",
+    "conditions": [
+      "ConfigHandler.obsidian_battle"
+    ],
+    "tags": []
+  },
+  {
+    "name": "wooden_spear",
+    "conditions": [
+      "ConfigHandler.wooden_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "stone_spear",
+    "conditions": [
+      "ConfigHandler.stone_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "gold_spear",
+    "conditions": [
+      "ConfigHandler.golden_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "iron_spear",
+    "conditions": [
+      "ConfigHandler.iron_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "diamond_spear",
+    "conditions": [
+      "ConfigHandler.diamond_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "emerald_spear",
+    "conditions": [
+      "ConfigHandler.emerald_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "obsidian_spear",
+    "conditions": [
+      "ConfigHandler.obsidian_spear"
+    ],
+    "tags": []
+  },
+  {
+    "name": "smelting_hardened_stone",
+    "conditions": [
+      "ConfigHandler.hardened_stone"
+    ]
+  },
+  {
+    "name": "smelting_cooked_apple",
+    "conditions": [
+      "ConfigHandler.CookedApple"
+    ]
+  },
+  {
+    "name": "smelting_cooked_mushroom_red",
+    "conditions": [
+      "ConfigHandler.CookedMushrooms"
+    ]
+  },
+  {
+    "name": "smelting_cooked_mushroom_brown",
+    "conditions": [
+      "ConfigHandler.CookedMushrooms"
+    ]
+  },
+  {
+    "name": "smelting_cooked_bacon",
+    "conditions": [
+      "ConfigHandler.CookedBacon"
+    ]
+  },
+  {
+    "name": "smelting_fried_egg",
+    "conditions": [
+      "ConfigHandler.FriedEgg"
+    ]
+  },
+  {
+    "name": "smelting_monster_jerky",
+    "conditions": [
+      "ConfigHandler.MonsterJerky"
+    ]
+  },
+  {
+    "name": "smelting_toasted_bread",
+    "conditions": [
+      "ConfigHandler.ToastedBread"
+    ]
+  },
+  {
+    "name": "smelting_little_candy",
+    "conditions": [
+      "ConfigHandler.CookedMushrooms"
+    ]
+  },
+  {
+    "name": "smelting_wub_ingot",
+    "conditions": [
+      "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    ]
+  },
+  {
+    "name": "smelting_flint_ingot",
+    "conditions": [
+      "ConfigHandler.FlintBlock"
+    ]
+  },
+  {
+    "namespace": "minecraft",
+    "name": "golden_apple",
+    "conditions": [
+      "!ConfigHandler.ApplePro"
+    ]
+  }
+]

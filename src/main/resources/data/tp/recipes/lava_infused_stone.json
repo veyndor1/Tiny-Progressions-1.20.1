@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "h h",
+    " w ",
+    "h h"
+  ],
+  "key": {
+    "h": {
+      "item": "tp:hardened_stone"
+    },
+    "w": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "tp:lava_infused_stone",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.lava_infused_stone"
+    }
+  ]
+}

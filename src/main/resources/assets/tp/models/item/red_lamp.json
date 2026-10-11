@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/red_lamp",
+  "render_type": "minecraft:cutout"
+}

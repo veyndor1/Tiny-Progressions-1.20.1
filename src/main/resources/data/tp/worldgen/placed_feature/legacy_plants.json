@@ -1,0 +1,8 @@
+{
+  "feature": "tp:legacy_plants",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

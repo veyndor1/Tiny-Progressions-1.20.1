@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "tp:ore_charcoal",
+  "step": "underground_ores"
+}

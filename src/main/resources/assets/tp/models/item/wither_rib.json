@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/wither_rib",
+    "particle": "tp:items/wither_rib"
+  }
+}

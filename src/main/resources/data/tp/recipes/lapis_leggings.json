@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:lapis_ingot"
+    }
+  },
+  "result": {
+    "item": "tp:lapis_leggings",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.lapis_armor"
+    }
+  ]
+}

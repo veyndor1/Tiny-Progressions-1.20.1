@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": "tp:cooked_apple",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.CookedApple"
+    }
+  ]
+}

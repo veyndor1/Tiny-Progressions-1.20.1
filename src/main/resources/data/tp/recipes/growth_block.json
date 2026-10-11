@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ibi",
+    "ded",
+    "ibi"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "tag": "forge:storage_blocks/bone"
+    },
+    "d": {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "nbt": "{Potion:\"minecraft:swiftness\"}"
+    },
+    "e": {
+      "item": "minecraft:sea_lantern"
+    }
+  },
+  "result": {
+    "item": "tp:growth_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BlockGrowth"
+    }
+  ]
+}

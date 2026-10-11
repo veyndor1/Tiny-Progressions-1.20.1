@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bdb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "d": {
+      "item": "tp:diamond_cobblegen_block"
+    }
+  },
+  "result": {
+    "item": "tp:blaze_cobblegen_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BlazeCobblegen && ConfigHandler.DiamondCobblegen"
+    }
+  ]
+}

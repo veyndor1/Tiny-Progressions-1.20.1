@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii ",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "s": {
+      "tag": "forge:rods/cane"
+    }
+  },
+  "result": {
+    "item": "tp:bsc_iron_hoe",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.bsc_rod && ConfigHandler.bsc_iron_tools_weapons"
+    }
+  ]
+}

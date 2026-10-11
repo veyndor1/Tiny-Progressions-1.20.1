@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d d",
+    "d d"
+  ],
+  "key": {
+    "d": {
+      "item": "tp:dragon_scale"
+    }
+  },
+  "result": {
+    "item": "tp:dragon_boots",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.dragon_armor"
+    }
+  ]
+}

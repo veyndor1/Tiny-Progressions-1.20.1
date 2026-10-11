@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/pumpkin_juice",
+    "particle": "tp:items/pumpkin_juice"
+  }
+}

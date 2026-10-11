@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASP",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:golden_axe"
+    },
+    "S": {
+      "item": "minecraft:golden_shovel"
+    },
+    "P": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:golden_multi",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.golden_multi"
+    }
+  ]
+}

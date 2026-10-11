@@ -1,0 +1,4 @@
+{
+  "parent": "tp:block/old_reed",
+  "render_type": "minecraft:cutout"
+}

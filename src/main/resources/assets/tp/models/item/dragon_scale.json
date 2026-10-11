@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tp:items/dragon_scale",
+    "particle": "tp:items/dragon_scale"
+  }
+}

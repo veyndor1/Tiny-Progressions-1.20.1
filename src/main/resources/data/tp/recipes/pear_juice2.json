@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "tp:juicer"
+    },
+    {
+      "item": "tp:plump_pear"
+    },
+    {
+      "tag": "forge:glass_bottles"
+    }
+  ],
+  "result": {
+    "item": "tp:pear_juice",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.extra_drop_bottle && ConfigHandler.extra_drops"
+    }
+  ]
+}

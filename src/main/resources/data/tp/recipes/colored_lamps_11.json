@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dt"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:blue_stained_glass"
+    },
+    "t": {
+      "tag": "tp:torches"
+    }
+  },
+  "result": {
+    "item": "tp:blue_lamp",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ColorLamps"
+    }
+  ]
+}

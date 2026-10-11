@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "tp:juicer"
+    },
+    {
+      "tag": "forge:crops/blueberry"
+    },
+    {
+      "tag": "forge:glass_bottles"
+    }
+  ],
+  "result": {
+    "item": "tp:blueberry_juice",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.ExtraJuicesBottles && !ConfigHandler.ExtraJuices"
+    }
+  ]
+}

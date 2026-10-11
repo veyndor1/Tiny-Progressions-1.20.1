@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/reinforced_obsidian_ingot",
+    "particle": "tp:items/reinforced_obsidian_ingot"
+  }
+}

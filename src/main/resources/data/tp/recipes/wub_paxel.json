@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "asp",
+    " i ",
+    " i "
+  ],
+  "key": {
+    "a": {
+      "item": "tp:wub_axe"
+    },
+    "s": {
+      "item": "tp:wub_spade"
+    },
+    "p": {
+      "item": "tp:wub_pickaxe"
+    },
+    "i": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:wub_paxel",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.wub_juice_tools && ConfigHandler.vasholine"
+    }
+  ]
+}

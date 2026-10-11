@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rdr",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:ingots/reinforced_obsidian"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "tp:birthday_pickaxe",
+    "count": 1,
+    "nbt": "{Enchantments:[{id:\"minecraft:mending\",lvl:1s}]}"
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ConfigHandler.BirthdayPickaxe && ConfigHandler.ReinforcedObsidian"
+    }
+  ]
+}

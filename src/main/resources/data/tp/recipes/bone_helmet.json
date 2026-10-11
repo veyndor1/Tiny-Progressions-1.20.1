@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "b b"
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:bones"
+    }
+  },
+  "result": {
+    "item": "tp:bone_helmet",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "tp:feature",
+      "expression": "ArmorHandler.BoneArmor"
+    }
+  ]
+}

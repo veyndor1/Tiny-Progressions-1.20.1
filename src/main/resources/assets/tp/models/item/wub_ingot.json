@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tp:items/wub_ingot",
+    "particle": "tp:items/wub_ingot"
+  }
+}
